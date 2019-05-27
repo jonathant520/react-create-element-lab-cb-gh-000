@@ -1,12 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+eslint-disable-next-line
 // IMPORTANT!!!! uncomment the lines below to make your tests work
-/*
 ReactDOM.render(
   meInReact,
   document.getElementById('global')
 );
 
 export default meInReact
-*/
+const container = React.createElement('div', {}, title)
+<div  class="me-me">
+  <h1>An Awesome Person</h1>
+  <p>Who is learning React</p>
+
+  <ul class="my-interests">
+    <li>JavaScript</li>
+    <li>React</li>
+    <li>Movies</li>
+    <li>Ice cream</li>
+  </ul>
+</div>
